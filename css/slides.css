@@ -6298,6 +6298,7 @@ body {
 @media (max-width: 767px) {
   .flex.later > [class*='col-']:not([class*='col-phone-']) {
     width: 100%;
+    padding-top: 10%;
   }
 
   .flex > .col-phablet-1-1 {
