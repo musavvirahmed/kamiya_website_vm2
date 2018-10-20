@@ -1,6 +1,4 @@
-# kamiya_website_vm2
-
-text about kamiya github link on musavvir.info
+KAMIYA•IO Landing Page
 ---
 
 Squarespace, as unappealing as it maybe to a UI designer, has its place.
